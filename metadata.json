@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Simulator",
+  "description": "A formal, high-contrast interactive application demonstrating falling snowflakes and floating balloons with precise timing and delightful visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
